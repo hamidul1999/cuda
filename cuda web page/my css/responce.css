@@ -1,0 +1,486 @@
+@media(min-width:1200px){
+
+.logo{
+margin-left: 2rem;
+
+
+
+}
+
+
+}
+
+@media(max-width:1024px){
+    .logo{
+        
+        margin-bottom: 3%;
+        }
+/*manu bar option start*/
+
+
+.manu-bar{
+
+    display: block;
+}
+
+/*manu bar option end*/
+
+
+
+    .navbar{
+
+display: none;
+
+    }
+    .conteiner {
+        width: 100% !important;
+    }
+
+
+
+    .menu-item {
+        margin: 5% 2%;
+    }
+
+    .para{
+
+        margin: 5%;
+    }
+
+    .logo{
+
+        margin-left: 5%;
+    }
+
+    .paratext{
+
+        margin: 0 auto;
+        margin-bottom: 2%;
+    }
+
+    .cricle {
+      
+        margin-left: 3%;
+    }
+
+    .allphoto {
+    
+        margin-left: 1%;
+    }
+    .php11{
+        float: none;
+    }
+
+    .photoalll {
+       
+        margin: 0 5%;
+        margin-bottom: 96rem;
+margin-top: -5rem;
+    }
+
+    .photo1{
+
+        margin-left: 0;
+    }
+
+    .php11 {
+        height: 15rem;
+        width: 15rem;
+    }
+
+    .textarea{
+
+        width: 80%;
+        margin-left: 0;
+    }
+    .email {
+        margin: 0 2%;
+    }
+
+    .name {
+       
+        margin: 0 2%;
+    }
+
+    .inbox14 input{
+
+        width: 37%;
+    }
+
+    .socil li{
+
+        padding: 1.5rem 1.5rem;
+    }
+    .headtext::after{
+
+
+        left: 47% !important;
+    }
+}
+
+
+@media(max-width:980px){
+
+    .headtext::after{
+
+
+        left: 47% !important;
+    }
+    html{
+
+        font-size: 57.5%;
+    }
+
+.cricle {
+    margin-left: 2%;
+}
+
+
+.menu-item {
+    margin: 5% 3%;
+}
+
+
+    .menu-item-father {
+        margin: 5%;
+    }
+    .menu-item {
+        margin: 5% 10%;
+    }
+
+
+    .cricle {
+        
+        width: 46%;
+        float: left;
+    }
+   
+
+    .socil li{
+
+        font-size: 1.8rem;
+    }
+    .headtext::after{
+
+
+        left: 47% !important;
+    }
+
+    .color3::after {
+        content:  !important;
+
+    }
+
+.allphoto{
+
+
+    width: 100%;
+}
+
+
+.allphoto img {
+    width: 75% !important;
+}
+.photo1.top {
+    margin-top: -.8rem;
+    margin-bottom:4%;
+}
+.photoalll{
+    margin-bottom: 0;
+}
+.head45{
+
+    width:21rem;
+}
+}
+
+
+@media(max-width:768px){
+
+
+    .para88 {
+    
+        margin: 2rem auto;
+        text-align: center !important;
+    }
+    .head78{
+
+width: 100%;
+
+    }
+    .head45{
+width: 100%;
+margin: 6% auto;
+        text-align: center !important;
+margin-top: -1.7rem;
+    }
+
+    .photo1 {
+       width: 46%;
+    }
+    .para{
+
+        font-size: 3.5rem;
+    }
+h2{
+
+   font-size:3.5rem;
+}
+
+
+.photo1.top {
+    margin-top: -.8rem;
+    margin-bottom:4%;
+}
+.head45{
+
+    width:21rem;
+}
+.photoalll{
+    margin-bottom: 0;
+}
+
+.menu-item{
+    width: 46%;
+    float: left;
+    margin: 2rem auto;
+}
+.paratext1 {
+    
+    margin: 1rem auto;
+}
+}
+@media(max-width:575px){
+
+
+    .header1 {
+        margin-top: 5rem;
+    
+    }
+    .headtext {
+      
+        letter-spacing: 0rem;
+    }
+        .paratext {
+            width: 84%;
+                margin: -2.2rem auto;
+                margin-bottom: 10%;
+            
+        }
+        .flag {
+            width: 30rem;
+            height: 30rem;
+           
+        }
+        .icoon4 i {
+            font-size: 4rem;
+            width: 4rem;
+            height: 4rem;
+        }
+        .menu-item {
+           margin: 2% auto;
+            width: 100%;
+        }
+        .paratext1 {
+            margin: .5rem auto;
+        }
+    
+        .headtext3{
+    
+            margin-top: 5%;
+            margin-bottom: 0%;
+        }
+        .headtext4 {
+           
+            margin-top: 0rem;
+            margin-bottom: 1rem;
+          
+        }
+    
+        .cricle {
+           
+            width: 100%;
+            margin: 0%;
+        }
+        .protfolio1 {
+            margin-bottom: 158rem;
+        }
+        .photo1 {
+            margin-top: 0rem;
+           margin-left: 0 !important;
+            width: 100%;
+        }
+        .para88 {
+          
+            margin: 2rem auto;
+            text-align: center !important;
+        }
+        .head78{
+    
+    width: 100%;
+    
+        }
+        .head45{
+    width: 100%;
+    margin: 6% auto;
+            text-align: center !important;
+    margin-top: -1.7rem;
+        }
+        .textarea{
+    
+            height: 13rem;
+        }
+    
+        .socil li {
+            padding: 1rem .5rem;
+        }
+        .masbtn{
+    
+            margin-top: 3rem;
+            margin-bottom: 6rem;
+        }
+        .heder500 {
+            margin-top: 5rem;
+        }
+        .headtext::after{
+    
+            top: 11.5rem !important;
+        }
+        .btn {
+            width: 24rem;
+            height: 6rem;
+        }
+
+
+
+
+
+}
+
+@media(max-width:480px){
+
+
+html{
+
+    font-size: 50%;
+}
+p{
+    font-size: 1.6rem !important;
+}
+.header1 {
+    margin-top: 5rem;
+
+}
+.headtext {
+  
+    letter-spacing: 0rem;
+}
+    .paratext {
+        width: 84%;
+            margin: -2.2rem auto;
+            margin-bottom: 10%;
+        
+    }
+    .flag {
+        width: 30rem;
+        height: 30rem;
+       
+    }
+    .icoon4 i {
+        font-size: 4rem;
+        width: 4rem;
+        height: 4rem;
+    }
+    .menu-item {
+       margin: 2% auto;
+        width: 100%;
+    }
+    .paratext1 {
+        margin: .5rem auto;
+    }
+
+    .headtext3{
+
+        margin-top: 5%;
+        margin-bottom: 0%;
+    }
+    .headtext4 {
+       
+        margin-top: 0rem;
+        margin-bottom: 1rem;
+      
+    }
+
+    .cricle {
+       
+        width: 100%;
+        margin: 0%;
+    }
+    .protfolio1 {
+        margin-bottom: 158rem;
+    }
+    .photo1 {
+        margin-top: 0rem;
+       margin-left: 0 !important;
+        width: 100%;
+    }
+    .para88 {
+      
+        margin: 2rem auto;
+        text-align: center !important;
+    }
+    .head78{
+
+width: 100%;
+
+    }
+    .head45{
+width: 100%;
+margin: 6% auto;
+        text-align: center !important;
+margin-top: -1.7rem;
+    }
+    .textarea{
+
+        height: 13rem;
+    }
+
+    .socil li {
+        padding: 1rem .5rem;
+    }
+    .masbtn{
+
+        margin-top: 3rem;
+        margin-bottom: 6rem;
+    }
+    .heder500 {
+        margin-top: 5rem;
+    }
+    .headtext::after{
+
+        top: 11.5rem !important;
+    }
+    .btn {
+        width: 24rem;
+        height: 6rem;
+    }
+
+}
+
+@media(max-width:320px){
+
+
+.photoalll {
+    margin-top: 1rem!important;
+}
+
+.head45 {
+
+    margin-top: -2.7rem;
+}
+
+.socil li {
+    padding: 1rem .1rem !important;
+    font-size: 1.3rem;
+}
+}
